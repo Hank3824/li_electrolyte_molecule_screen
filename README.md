@@ -6,11 +6,11 @@ This repository contains code and curated datasets used for machine-learning-ass
 
 ```text
 .
-??? data/                 # Curated datasets and screening outputs
-??? notebooks/            # Cleaned analysis notebooks
-??? scripts/              # Standalone Python scripts
-??? large_data_not_tracked/ # Local-only large raw files excluded from Git
-??? _original_files/      # Local provenance archive, excluded from Git
+|-- data/                   # Curated datasets and screening outputs
+|-- notebooks/              # Cleaned analysis notebooks
+|-- scripts/                # Standalone Python scripts
+|-- large_data_not_tracked/ # Local-only large raw files excluded from Git
+`-- _original_files/        # Local provenance archive, excluded from Git
 ```
 
 ## Main Datasets
