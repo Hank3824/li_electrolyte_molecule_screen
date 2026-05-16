@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+rdkit
+tqdm
+openpyxl
+polars
+unimol_tools

@@ -1,0 +1,37 @@
+﻿Candidate_ID,SMILES,CAS,Oxidation_potential_V,Donor_number_kcal_mol,ESPratio,Purchased,Electrochemical_performance_data,Experimental_status
+CAND-001,CC(C#N)C#N,3696-36-4,4.5,14.5,0.9012,No,No,Not purchased or tested
+CAND-003,CC(C)(C#N)F,138999-34-5,4.3,11.1,1.1957,No,No,Not purchased or tested
+CAND-004,CC(CCC#N)C#N,4553-62-2,4.4,17.5,1.0876,Yes,Yes,Additive tested
+CAND-005,C(C#N)Br,590-17-0,4.5,13.0,0.9538,Yes,No,Purchased; no electrochemical performance data
+CAND-007,C(CC#N)CCl,628-20-6,4.0,11.2,1.0845,No,No,Not purchased or tested
+CAND-008,CC(C)(Br)Br,594-16-1,4.0,10.9,1.1708,No,No,Not purchased or tested
+CAND-012,CC(C#N)I,104024-32-0,4.2,12.9,1.1115,No,No,Not purchased or tested
+CAND-013,CCC(C)(CC#N)C#N,4172-97-8,4.1,20.0,1.2236,No,No,Not purchased or tested
+CAND-015,CC(C#N)Br,19481-82-4,4.5,12.5,1.1174,Yes,No,Purchased; no electrochemical performance data
+CAND-016,C[Si](C)(C)C#N,7677-24-9,4.0,24.5,1.3455,Yes,Yes,Additive tested
+CAND-017,CC(C)(CC#N)C#N,13706-71-3,4.4,21.5,1.1151,No,No,Not purchased or tested
+CAND-018,C(CC#N)CBr,5332-06-9,4.0,13.9,1.1665,No,No,Not purchased or tested
+CAND-019,C(C#N)I,624-75-9,4.2,12.8,0.9061,No,No,Not purchased or tested
+CAND-022,CCC(C#N)S(=O)(=O)Cl,27869-06-3,4.0,13.8,0.9346,No,No,Not purchased or tested
+CAND-024,C(CCCC#N)CCCC#N,1675-69-0,4.1,19.1,1.2685,No,No,Not purchased or tested
+CAND-025,C(CBr)C#N,2417-90-5,4.3,13.1,1.0707,Yes,No,Purchased; no electrochemical performance data
+CAND-026,COC(=O)C#N,17640-15-2,4.2,14.0,1.0078,No,No,Not purchased or tested
+CAND-027,CC(OC(=O)Cl)Cl,50893-53-3,4.0,10.5,0.9216,No,No,Not purchased or tested
+CAND-028,CCC(CC)(C#N)C#N,28118-33-4,4.2,16.7,1.3675,No,No,Not purchased or tested
+CAND-029,CC(C)C(C#N)Br,25117-57-1,4.1,16.1,1.1714,No,No,Not purchased or tested
+CAND-030,CC(C)(C)C#N,630-18-2,4.3,16.2,1.6195,Yes,Yes,Co-solvent tested
+CAND-031,CC(CBr)C#N,53744-77-7,4.3,12.4,1.2302,No,No,Not purchased or tested
+CAND-032,CC(C(C#N)Br)Br,25109-76-6,4.0,13.6,1.0512,No,No,Not purchased or tested
+CAND-033,C(CCCC#N)CCC#N,629-40-3,4.2,17.0,1.233,No,No,Not purchased or tested
+CAND-034,CC(C)(C#N)I,19481-79-9,4.2,14.0,1.29,No,No,Not purchased or tested
+CAND-036,CCC(C#N)Br,41929-78-6,4.2,15.0,1.2018,Yes,No,Purchased; no electrochemical performance data
+CAND-037,CC(C)(C#N)Br,41658-69-9,4.3,13.2,1.284,No,No,Not purchased or tested
+CAND-038,CC(C)(C)C(C#N)C#N,4210-60-0,4.0,23.3,1.2041,Yes,Yes,Co-solvent tested
+CAND-039,C(CC#N)CF,407-83-0,4.3,12.4,1.0953,No,No,Not purchased or tested
+CAND-040,CCC(C)(C#N)Cl,408319-68-6,4.0,13.4,1.1811,No,No,Not purchased or tested
+CAND-041,CC(C)(CS(=O)(=O)Cl)C#N,1432681-16-7,4.3,17.1,0.9598,No,No,Not purchased or tested
+CAND-043,CCCCC(C#N)C#N,7391-58-4,4.0,16.9,1.1515,No,No,Not purchased or tested
+CAND-044,C(CCC#N)CCC#N,646-20-8,4.3,17.6,1.1231,Yes,Yes,Additive tested
+CAND-045,C(C(C#N)Br)Br,4554-16-9,4.5,11.0,1.0061,No,No,Not purchased or tested
+CAND-046,C(CC#N)C[Si](Cl)(Cl)Cl,1071-27-8,4.2,13.2,0.9574,Yes,No,Purchased; no electrochemical performance data
+CAND-051,CCC(C#N)C#N,3696-37-5,4.6,16.7,1.0373,No,No,Not purchased or tested

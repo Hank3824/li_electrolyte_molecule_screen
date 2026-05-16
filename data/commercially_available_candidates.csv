@@ -1,0 +1,52 @@
+﻿Candidate_ID,SMILES,CAS,Prior_use_status,Oxidation_potential_V,Donor_number_kcal_mol,ESPmin_eV,ESPmax_eV,ESPratio,Melting_point_or_state_C,Boiling_point_C,Commercial_package,Listed_price_as_recorded,Solubility_or_note,Purchased,Electrochemical_performance_data,Experimental_status
+CAND-001,CC(C#N)C#N,3696-36-4,Previously unexplored,4.5,14.5,-1.828,2.0285,0.9012,36-37,90-100,50 mg,6400.0,,No,No,Not purchased or tested
+CAND-002,C(CC#N)CC(CCC#N)C#N,1772-25-4,Previously reported,4.3,18.9,-1.8902,1.7889,1.0566,Liquid,255-260,25 g,120.0,,No,No,Not purchased or tested
+CAND-003,CC(C)(C#N)F,138999-34-5,Previously unexplored,4.3,11.1,-1.9256,1.6104,1.1957,Liquid at room temperature,,50 mg,3323.0,,No,No,Not purchased or tested
+CAND-004,CC(CCC#N)C#N,4553-62-2,Previously unexplored,4.4,17.5,-1.8948,1.7423,1.0876,-45,269-271,100 g,119.0,Soluble in water and most organic solvents,Yes,Yes,Additive tested
+CAND-005,C(C#N)Br,590-17-0,Previously unexplored,4.5,13.0,-1.8341,1.9229,0.9538,Liquid,60-62,25 g,75.0,,Yes,No,Purchased; no electrochemical performance data
+CAND-006,CCC#N.O=[Si],1173021-70-9,Previously reported,4.1,19.0,-1.9092,1.7092,1.117,,,10 g,1079.0,,No,No,Not purchased or tested
+CAND-007,C(CC#N)CCl,628-20-6,Previously unexplored,4.0,11.2,-1.9276,1.7774,1.0845,Liquid,,100 g,351.0,,No,No,Not purchased or tested
+CAND-008,CC(C)(Br)Br,594-16-1,Previously unexplored,4.0,10.9,-1.319,1.1266,1.1708,-44.69,114,5 g,90.0,,No,No,Not purchased or tested
+CAND-009,C(CC(CCC#N)C#N)C#N,4379-04-8,Previously reported,4.4,18.4,-1.8363,1.9905,0.9225,Liquid,190,100 mg,240.0,Insoluble in water; soluble in most organic solvents,No,No,Not purchased or tested
+CAND-010,C[Si](CCC#N)(Cl)Cl,1071-21-2,Previously reported,4.0,17.0,-1.8514,1.8532,0.9991,Liquid,60,25 g,6000.0,Soluble in common organic solvents; slightly soluble in water,No,No,Not purchased or tested
+CAND-011,CC(C)(C#N)C#N,7321-55-3,Previously reported,4.7,14.4,-1.9211,1.6589,1.158,31-33,120,5 g,167.0,Soluble in common organic solvents; slightly soluble in water,No,No,Not purchased or tested
+CAND-012,CC(C#N)I,104024-32-0,Previously unexplored,4.2,12.9,-1.952,1.7562,1.1115,,,50 mg,1245.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested
+CAND-013,CCC(C)(CC#N)C#N,4172-97-8,Previously unexplored,4.1,20.0,-1.9697,1.6097,1.2236,Liquid or solidified state,,1 g,2576.0,Soluble in many organic solvents,No,No,Not purchased or tested
+CAND-014,CCCCC#N,110-59-8,Previously reported,4.0,16.2,-2.0365,1.4308,1.4233,96.2,141.3,25 mL,45.0,Insoluble in water; miscible or soluble in ethanol and ether,No,No,Not purchased or tested
+CAND-015,CC(C#N)Br,19481-82-4,Previously unexplored,4.5,12.5,-1.9235,1.7214,1.1174,Liquid,,1 g,42.7,Soluble in many organic solvents,Yes,No,Purchased; no electrochemical performance data
+CAND-016,C[Si](C)(C)C#N,7677-24-9,Previously unexplored,4.0,24.5,-2.0986,1.5597,1.3455,Liquid,114,5 mL,20.0,"Insoluble in water; miscible with common organic solvents such as alcohols, ethers, and ketones",Yes,Yes,Additive tested
+CAND-017,CC(C)(CC#N)C#N,13706-71-3,Previously unexplored,4.4,21.5,-1.9436,1.743,1.1151,,,50 mg,2447.0,,No,No,Not purchased or tested
+CAND-018,C(CC#N)CBr,5332-06-9,Previously unexplored,4.0,13.9,-1.957,1.6777,1.1665,104,207,5 g,29.0,Poorly soluble in water; soluble in common organic solvents such as alcohols and ethers,No,No,Not purchased or tested
+CAND-019,C(C#N)I,624-75-9,Previously unexplored,4.2,12.8,-1.838,2.0283,0.9061,Liquid,182,10 g,173.0,,No,No,Not purchased or tested
+CAND-020,CC#N,75-05-8,Previously reported,4.6,18.6,-1.9756,1.7223,1.1471,Liquid,,1 L,96.0,"Dissolves many organic, inorganic, and gaseous substances; miscible with water and alcohols",No,No,Not purchased or tested
+CAND-021,CC(C)C#N,78-82-0,Previously reported,4.4,15.3,-2.0478,1.3501,1.5168,Liquid,107,2.5 L,680.0,Poorly soluble in water; soluble in common organic solvents such as alcohols and ethers,No,No,Not purchased or tested
+CAND-022,CCC(C#N)S(=O)(=O)Cl,27869-06-3,Previously unexplored,4.0,13.8,-1.7713,1.8952,0.9346,,,100 mg,2543.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested
+CAND-023,C(CCC#N)CC#N,111-69-3,Previously reported,4.6,16.9,-1.8573,1.7952,1.0346,Liquid,,25 g,1823.0,"Soluble in methanol, ethanol, and chloroform; poorly soluble in water and several nonpolar solvents",No,No,Not purchased or tested
+CAND-024,C(CCCC#N)CCCC#N,1675-69-0,Previously unexplored,4.1,19.1,-1.9978,1.5749,1.2685,Liquid,,1 g,254.0,,No,No,Not purchased or tested
+CAND-025,C(CBr)C#N,2417-90-5,Previously unexplored,4.3,13.1,-1.9176,1.791,1.0707,Liquid,,5 g,60.0,Readily soluble in ethanol and ether,Yes,No,Purchased; no electrochemical performance data
+CAND-026,COC(=O)C#N,17640-15-2,Previously unexplored,4.2,14.0,-1.8497,1.8355,1.0078,Liquid,,5 g,1547.0,"Reported use as a reagent, catalyst, or solvent",No,No,Not purchased or tested
+CAND-027,CC(OC(=O)Cl)Cl,50893-53-3,Previously unexplored,4.0,10.5,-1.4455,1.5685,0.9216,Liquid,,100 g,53.0,Readily soluble in organic solvents; hydrolyzes in water,No,No,Not purchased or tested
+CAND-028,CCC(CC)(C#N)C#N,28118-33-4,Previously unexplored,4.2,16.7,-1.9799,1.4478,1.3675,,,1 g,8860.0,,No,No,Not purchased or tested
+CAND-029,CC(C)C(C#N)Br,25117-57-1,Previously unexplored,4.1,16.1,-1.9506,1.6652,1.1714,,,50 mg,991.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested
+CAND-030,CC(C)(C)C#N,630-18-2,Previously unexplored,4.3,16.2,-2.0435,1.2618,1.6195,Liquid,,100 g,132.0,Poorly soluble in water; soluble in common organic solvents such as alcohols and ethers,Yes,Yes,Co-solvent tested
+CAND-031,CC(CBr)C#N,53744-77-7,Previously unexplored,4.3,12.4,-1.9794,1.609,1.2302,,,100 mg,2711.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested
+CAND-032,CC(C(C#N)Br)Br,25109-76-6,Previously unexplored,4.0,13.6,-1.8971,1.8047,1.0512,Crystalline solid,,10 g,5282.0,Nearly insoluble in water; soluble in organic solvents,No,No,Not purchased or tested
+CAND-033,C(CCCC#N)CCC#N,629-40-3,Previously unexplored,4.2,17.0,-1.9862,1.6108,1.233,Liquid,185,100 mL,242.0,Insoluble in water; soluble in most organic solvents,No,No,Not purchased or tested
+CAND-034,CC(C)(C#N)I,19481-79-9,Previously unexplored,4.2,14.0,-1.9907,1.5431,1.29,Liquid,,1 g,690.0,Insoluble in water; soluble in most organic solvents,No,No,Not purchased or tested
+CAND-035,CC([CH2])C#N,78-82-0,Previously reported,4.1,16.0,-2.016,1.4716,1.3699,Liquid,,2.5 L,680.0,Poorly soluble in water; soluble in common organic solvents such as alcohols and ethers,No,No,Not purchased or tested
+CAND-036,CCC(C#N)Br,41929-78-6,Previously unexplored,4.2,15.0,-1.9899,1.6558,1.2018,,,50 mg,1066.0,Supplier note: Bide Pharmatech,Yes,No,Purchased; no electrochemical performance data
+CAND-037,CC(C)(C#N)Br,41658-69-9,Previously unexplored,4.3,13.2,-1.9637,1.5294,1.284,Liquid,,250 mg,489.0,Soluble in polar solvents such as alcohols and ethers; insoluble in nonpolar solvents,No,No,Not purchased or tested
+CAND-038,CC(C)(C)C(C#N)C#N,4210-60-0,Previously unexplored,4.0,23.3,-1.9926,1.6549,1.2041,Liquid,,1 g,26.0,Soluble in water and organic solvents,Yes,Yes,Co-solvent tested
+CAND-039,C(CC#N)CF,407-83-0,Previously unexplored,4.3,12.4,-1.942,1.773,1.0953,,,100 mg,1603.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested
+CAND-040,CCC(C)(C#N)Cl,408319-68-6,Previously unexplored,4.0,13.4,-1.9157,1.6219,1.1811,,,50 mg,928.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested
+CAND-041,CC(C)(CS(=O)(=O)Cl)C#N,1432681-16-7,Previously unexplored,4.3,17.1,-1.7913,1.8663,0.9598,,,100 mg,2870.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested
+CAND-042,COC(=O)[N],598-55-0,Previously reported,4.1,17.8,-1.7968,1.7888,1.0045,White crystalline solid,,500 g,63.0,Highly soluble in water; also soluble in common organic solvents,No,No,Not purchased or tested
+CAND-043,CCCCC(C#N)C#N,7391-58-4,Previously unexplored,4.0,16.9,-1.9749,1.7151,1.1515,Liquid,,1 g,2701.0,Soluble in many organic solvents,No,No,Not purchased or tested
+CAND-044,C(CCC#N)CCC#N,646-20-8,Previously unexplored,4.3,17.6,-1.9208,1.7103,1.1231,Liquid,,500 mL,1911.0,"Soluble in ethanol, chloroform, and water",Yes,Yes,Additive tested
+CAND-045,C(C(C#N)Br)Br,4554-16-9,Previously unexplored,4.5,11.0,-1.8546,1.8434,1.0061,,,25 g,1926.0,,No,No,Not purchased or tested
+CAND-046,C(CC#N)C[Si](Cl)(Cl)Cl,1071-27-8,Previously unexplored,4.2,13.2,-1.685,1.7599,0.9574,Liquid,,25 g,717.0,,Yes,No,Purchased; no electrochemical performance data
+CAND-047,CSC#N,556-64-9,Previously reported,4.0,20.0,-1.8896,1.7882,1.0567,Liquid,,25 mL,241.0,"Soluble in organic solvents such as ethanol, ether, and benzene",No,No,Not purchased or tested
+CAND-048,C(CC#N)CC#N,544-13-8,Previously reported,4.7,17.5,-1.8069,1.9681,0.9181,Liquid,,25 g,244.0,Good solubility in many organic solvents,No,No,Not purchased or tested
+CAND-049,CCCC#N,109-74-0,Previously reported,4.4,15.7,-2.0499,1.4394,1.4241,Liquid,,500 mL,448.0,Miscible with water; soluble in many organic solvents,No,No,Not purchased or tested
+CAND-050,COC(=O)[O],7456-87-3,Previously reported,4.2,13.0,-1.7493,1.8717,0.9346,,,,,Supplier note: Yangxin Pharma,No,No,Not purchased or tested
+CAND-051,CCC(C#N)C#N,3696-37-5,Previously unexplored,4.6,16.7,-1.9338,1.8643,1.0373,,,100 mg,1193.0,Supplier note: Bide Pharmatech,No,No,Not purchased or tested

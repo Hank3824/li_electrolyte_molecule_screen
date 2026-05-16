@@ -1,0 +1,27 @@
+# Local provenance and raw data
+_original_files/
+large_data_not_tracked/
+
+# Oversized raw PubChem export
+data/pubchem.csv
+**/pubchem.csv
+
+# Python and notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Model outputs and local result folders
+Result/
+results/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
