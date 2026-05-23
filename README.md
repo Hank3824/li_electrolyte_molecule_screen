@@ -6,8 +6,8 @@ This repository contains code and curated datasets used for machine-learning-ass
 
 ```text
 .
-|-- data/                   # Curated datasets and screening outputs
-|-- notebooks/              # Cleaned analysis notebooks
+|-- data/                   # Curated datasets, annotations, and screening outputs
+|-- notebooks/              # English notebooks; record notebooks retain execution outputs
 |-- scripts/                # Standalone Python scripts
 |-- large_data_not_tracked/ # Local-only large raw files excluded from Git
 `-- _original_files/        # Local provenance archive, excluded from Git
@@ -16,22 +16,23 @@ This repository contains code and curated datasets used for machine-learning-ass
 ## Main Datasets
 
 - `data/donor_number.csv`: donor-number dataset for model training.
-- `data/esp_345.csv`: ESPmin and ESPmax dataset.
+- `data/esp_344.csv`: ESPmin and ESPmax dataset used for descriptor modelling.
 - `data/oxidation_potential.csv`: oxidation-potential dataset.
 - `data/pubchem_cleaned_data.csv`: cleaned PubChem-derived molecular library used for screening.
-- `data/commercially_available_candidates.csv`: cleaned list of 51 commercially available candidates after removing one duplicated or incorrect entry.
-- `data/previously_unexplored_candidates_si_table.csv`: simplified SI-style table for 36 previously unexplored commercially available candidates.
+- `data/commercially_available_candidates.csv` and `.xlsx`: commercially available candidate annotations.
+- `data/previously_unexplored_candidates.xlsx`: simplified table for previously unexplored candidates, including purchase and experimental-success annotations.
 - `data/li_binding_energy_complete.xlsx`: Li+ binding-energy audit dataset.
+- `data/kmeans_voronoi_regions.json`: stored K-means/Voronoi region information used for screening visualization.
 
-The raw PubChem export `pubchem.csv` is larger than GitHub's standard single-file limit and is excluded from version control. The cleaned PubChem dataset and screening outputs are included.
+The raw PubChem export `pubchem.csv` is larger than GitHub's standard single-file limit and is excluded from version control. The cleaned PubChem dataset and curated outputs are included.
 
 ## Notebooks
 
 - `notebooks/01_data_processing_and_cleaning.ipynb`: PubChem data merging and cleaning workflow.
-- `notebooks/02_dn_esp_model_training.ipynb`: donor-number and ESP model training and prediction workflow.
-- `notebooks/03_hierarchical_screening.ipynb`: hierarchical candidate-screening workflow.
+- `notebooks/02_unimol_dn_esp_training_record.ipynb`: Uni-Mol DN, ESPmin, and ESPmax training record with retained execution outputs.
+- `notebooks/03_hierarchical_screening_record.ipynb`: hierarchical screening record with retained execution outputs for OP, DN, ESP, ESPratio, fingerprinting, t-SNE, and K-means assignment.
 
-Notebook outputs were cleared before release to avoid shipping local run logs and machine-specific paths.
+The two record notebooks retain historical run outputs for provenance. Source cells are standardized in English and use repository-relative paths where practical. Some historical output logs may still reflect the original execution environment.
 
 ## Notes
 
