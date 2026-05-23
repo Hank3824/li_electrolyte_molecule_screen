@@ -13,8 +13,19 @@ __pycache__/
 .venv/
 .env
 
-# Model outputs and local result folders
+# Model artifacts and local result folders
 Result/
+model_artifacts/*
+!model_artifacts/
+!model_artifacts/**/
+!model_artifacts/README.md
+!model_artifacts/MANIFEST.csv
+!model_artifacts/**/*.yaml
+!model_artifacts/**/*.ss
+!model_artifacts/**/*.data
+!model_artifacts/**/*.result
+model_artifacts/**/*.sdf
+model_artifacts/**/*.pth
 results/
 outputs/
 checkpoints/
